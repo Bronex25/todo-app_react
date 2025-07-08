@@ -1,9 +1,29 @@
-# React TypeScript Starter Pack
+# 📝 Todo App (React)
 
-To use this template click `Use this template`
+A clean and simple Todo List app built with **React**, **SASS**, and **Vite**. This project allows users to manage their tasks effectively with features like adding, deleting, filtering, and toggling task completion.
 
-### Available Scripts
+[Demo Link](https://bronex25.github.io/todo-app_react/)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+---
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## 🚀 Features
+
+- ✅ Add new todos
+- ✅ Mark tasks as complete/incomplete
+- ✅ Delete tasks
+- ✅ Filter by:
+  - All
+  - Active
+  - Completed
+- ✅ Responsive design
+- ✅ Light and fast — built with Vite
+
+---
+
+## 🔧 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [SASS](https://sass-lang.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [classnames](https://www.npmjs.com/package/classnames)
